@@ -1,3 +1,9 @@
+
+
+This code is free to use under BSD License.
+This is an implementation of a formation controller for n number of robots. It runs on AdeptRobot's API Aria Library under Ubuntu 12.04
+This code can be used on any type of robots which has this API.
+
 Running in a simulator:
 ------------------------
 
