@@ -1,0 +1,8 @@
+title: Virtual truck trailer
+description: formation control, aria, pioneer p3dx, amigobots
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
