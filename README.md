@@ -3,7 +3,6 @@
 This code is free to use under BSD License.
 This is an implementation of a formation controller for n number of robots. It runs on AdeptRobot's API Aria Library under Ubuntu 12.04
 This code can be used on any type of robots which has this API.
-[[https://github.com/jenniferdavid/virtual_truck_trailer/blob/master/Screenshot%20from%202013-10-03%2002_28_52.png|alt=map]]
 
 Running in a simulator:
 ------------------------
@@ -27,7 +26,13 @@ An executable will be generated.
 6.Run the exe as ./client 
 
 This executable connects the server running in the simulator.
+The map from MobileSim resembles like this: ![map](https://user-images.githubusercontent.com/2436747/47858649-d88deb80-ddec-11e8-95c5-59b74fbec5ae.png)
+and a zoomed view of the Amigobots moving could be seen like this 
+![movement](https://user-images.githubusercontent.com/2436747/47858650-d88deb80-ddec-11e8-9ca0-0fdcd040b3f4.png)
 
+For case of multiple amigobots/pioneer, this is a screenshot:
+![1](https://user-images.githubusercontent.com/2436747/47858645-d88deb80-ddec-11e8-8488-2e43050455a8.png)
+![2](https://user-images.githubusercontent.com/2436747/47858646-d88deb80-ddec-11e8-92f9-73c5260a6ece.png)
 
 ********************************************************************************
 Running in real P3DX robots:
