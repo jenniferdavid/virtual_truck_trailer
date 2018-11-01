@@ -26,13 +26,9 @@ An executable will be generated.
 6.Run the exe as ./client 
 
 This executable connects the server running in the simulator.
-The map from MobileSim resembles like this: ![map](https://user-images.githubusercontent.com/2436747/47858649-d88deb80-ddec-11e8-95c5-59b74fbec5ae.png)
-and a zoomed view of the Amigobots moving could be seen like this 
-![movement](https://user-images.githubusercontent.com/2436747/47858650-d88deb80-ddec-11e8-9ca0-0fdcd040b3f4.png)
+The map from MobileSim resembles like this and a zoomed view of the Amigobots moving could be seen:
+![image](https://user-images.githubusercontent.com/2436747/47859289-4be42d00-ddee-11e8-9e06-3f4e957e3470.png)
 
-For case of multiple amigobots/pioneer, this is a screenshot:
-![1](https://user-images.githubusercontent.com/2436747/47858645-d88deb80-ddec-11e8-8488-2e43050455a8.png)
-![2](https://user-images.githubusercontent.com/2436747/47858646-d88deb80-ddec-11e8-92f9-73c5260a6ece.png)
 
 ********************************************************************************
 Running in real P3DX robots:
