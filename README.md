@@ -3,6 +3,7 @@
 This code is free to use under BSD License.
 This is an implementation of a formation controller for n number of robots. It runs on AdeptRobot's API Aria Library under Ubuntu 12.04
 This code can be used on any type of robots which has this API.
+[[https://github.com/jenniferdavid/virtual_truck_trailer/blob/master/Screenshot%20from%202013-10-03%2002_28_52.png|alt=map]]
 
 Running in a simulator:
 ------------------------
