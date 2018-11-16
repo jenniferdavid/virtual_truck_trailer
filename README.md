@@ -8,20 +8,24 @@ Running in a simulator:
 ------------------------
 
 1.Open Mobilesim simulator of AdeptMobilerobots.
+
 2.Load the map file of your choice.
+
 3.Open a terminal and compile the cpp files.
-4.To compile the server pgm:
-5.Type: 
+
+4.To compile the server pgm, type: 
 `g++ -o servertruckcircleline -I/usr/local/Aria/include -I/usr/local/Aria/ArNetworking/include -L/usr/local/Aria/lib servertruckcircleline.cpp -lAria -lArNetworking -ldl -lrt -lpthread`
 An executable will be generated.
-6.Run the exe as `./servertruckcircleline `
-7.This executable default connects to the simulator.
-4.To compile the client pgm:
-5.Type:
+
+5.Run the exe as `./servertruckcircleline`. This executable default connects to the simulator.
+
+6.To compile the client pgm, type:
 `g++ -o client -I/usr/local/Aria/include -I/usr/local/Aria/ArNetworking/include -L/usr/local/Aria/lib clientserverttppcirleline.cpp -lAria -lArNetworking -ldl -lrt -lpthread`
 An executable will be generated.
-6.Run the exe as `./client` 
+
+7.Run the exe as `./client` 
 This executable connects to the server running in the simulator.
+
 The map from MobileSim resembles like this and a zoomed view of the Amigobots moving could be seen:
 ![image](https://user-images.githubusercontent.com/2436747/47859289-4be42d00-ddee-11e8-9e06-3f4e957e3470.png)
 
