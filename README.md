@@ -1,8 +1,8 @@
 # Virtual truck trailer formation control of multiple mobile robots
 
 This code is free to use under GNU GPL.
-This is an implementation of a formation controller for n number of robots. It runs on AdeptRobot's API Aria Library under Ubuntu 12.04
-This code can be used on any type of robots which has this API.
+This is an implementation of a formation controller for "n" number of robots. It runs on AdeptRobot's API Aria Library under Ubuntu 12.04
+This code can be used on any type of differential mobile robots which has this API.
 
 Running in a simulator:
 ------------------------
@@ -40,7 +40,7 @@ Running in real P3DX robots:
 5. One robot runs the server pgm and the other robot runs the client pgm. Switch on the robot and make sure the robots are connected to the laptop.
 6. Now after compiling the exectables in their respective laptops, run the executable from the terminal.
 7. Run as: `./executable name -rp portno` (guidelines are provided in thesis as well as in p3dx manual)
-8. Each $$$exe$$$ connects to the robot by default.
+8. Each `exe` connects to the robot by default.
 9. Make sure the simulator is off. The program connects to the simulator by default. 
 10. Terminating the exe disconnects the program from the robot.
 
